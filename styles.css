@@ -15,7 +15,8 @@ body, html {
 
 #fullscreen-video {
     width: auto;
-    height: 750px;
+    height: 500px;
+    overflow: hidden;
 }
 #particles-js{
     position: absolute;
